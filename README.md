@@ -3,7 +3,7 @@
 
 👉 **DaNet [TPAMI 2020]**:
 + **[Learning 3D Human Shape and Pose from Dense Body Parts](https://hongwenzhang.github.io/DensePose2SMPL)**  
- ✨ DensePose to SMPL; part-based regression; more robust to occlusion
+ ✨ DensePose to SMPL; part-based regressor; more robust to occlusion
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td><img src="https://hongwenzhang.github.io/DensePose2SMPL/img/framework.png" height=100px width=220px></td>
