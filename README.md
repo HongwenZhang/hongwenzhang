@@ -6,8 +6,8 @@
  ✨ DensePose to SMPL; part-based regression; more robust to occlusion
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://hongwenzhang.github.io/DensePose2SMPL/img/framework.png" height=150px width=320px></td>
-    <td><img src="https://hongwenzhang.github.io/images/densepose2smpl.png" height=150px width=320px></td>
+    <td><img src="https://hongwenzhang.github.io/DensePose2SMPL/img/framework.png" height=100px width=220px></td>
+    <td><img src="https://hongwenzhang.github.io/images/densepose2smpl.png" height=100px width=250px></td>
   </tr>
 </table>
 <h1 align="center"> </h1>
@@ -17,8 +17,8 @@
  ✨ better mesh-to-image alignment
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://hongwenzhang.github.io/images/pymaf.jpg" height=150px width=320px></td>
-    <td><img src="https://hongwenzhang.github.io/pymaf/files/flashmob.gif" height=150px width=280px></td>
+    <td><img src="https://hongwenzhang.github.io/images/pymaf.jpg" height=100px width=220px></td>
+    <td><img src="https://hongwenzhang.github.io/pymaf/files/flashmob.gif" height=100px width=200px></td>
   </tr>
 </table>
 
