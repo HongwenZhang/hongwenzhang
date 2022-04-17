@@ -6,7 +6,7 @@
  ✨ DensePose to SMPL; part-based regressor; more robust to occlusion
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://hongwenzhang.github.io/DensePose2SMPL/img/framework.png" height=100px width=250px></td>
+    <td><a href="https://hongwenzhang.github.io/DensePose2SMPL"> <img src="https://hongwenzhang.github.io/DensePose2SMPL/img/framework.png" height=100px width=250px> </a></td>
     <td><img src="https://hongwenzhang.github.io/images/densepose2smpl.png" height=100px width=250px></td>
   </tr>
 </table>
