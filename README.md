@@ -12,7 +12,7 @@
 </table>
 <h1 align="center"> </h1>
 
-👉 **PyMAF [ICCV 2021, Oral]**:
+👉 **PyMAF [ICCV 2021, Oral]** & PyMAF-X [arXiv 2022]:
 + **[PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://hongwenzhang.github.io/pymaf)**  
  ✨ better mesh-to-image alignment
 <table style="margin-left:auto; margin-right:auto;">
@@ -22,3 +22,11 @@
   </tr>
 </table>
 
++ **[PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images](https://www.liuyebin.com/pymaf-x)**  
+ ✨ an eXpressive version of PyMAF, supporting SMPL-X
+<table style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td><a href="https://hongwenzhang.github.io/pymaf"> <img src="https://hongwenzhang.github.io/images/pymaf.jpg" height=100px width=220px> </a></td>
+    <td><a href="https://hongwenzhang.github.io/pymaf-x/files/pymafx.png"> <img src="https://hongwenzhang.github.io/pymaf-x/files/img/1.png" height=100px width=220px> </a></td>
+  </tr>
+</table>
