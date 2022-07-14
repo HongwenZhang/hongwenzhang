@@ -12,7 +12,7 @@
 </table>
 <h1 align="center"> </h1>
 
-👉 **PyMAF [ICCV 2021, Oral]** & PyMAF-X [arXiv 2022]:
+👉 **PyMAF [ICCV 2021, Oral]** & **PyMAF-X [arXiv 2022]**:
 + **[PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://hongwenzhang.github.io/pymaf)**  
  ✨ better mesh-to-image alignment
 <table style="margin-left:auto; margin-right:auto;">
