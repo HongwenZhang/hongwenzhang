@@ -26,7 +26,7 @@
  ✨ an eXpressive version of PyMAF, supporting SMPL-X
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="href="https://hongwenzhang.github.io/pymaf-x/files/pymafx.png" height=100px width=220px> </a></td>
+    <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="href="pymafx.png" height=100px width=220px> </a></td>
     <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://hongwenzhang.github.io/pymaf-x/files/img/1.png" height=100px width=220px> </a></td>
   </tr>
 </table>
