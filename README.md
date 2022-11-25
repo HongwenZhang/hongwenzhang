@@ -1,6 +1,6 @@
 ### ✨ Research Highlights ✨ 
 <!-- [![GitHub User's stars](https://img.shields.io/github/stars/HongwenZhang?label=Total%20Stars%20Earned&style=social)](https://github.com/HongwenZhang) -->
-<!-- <h1 align="center"> </h1> -->
+<h1 align="center"> </h1>
 
 
 ### 🚩 Human/Hand/Face/Full-body Motion Capture:
