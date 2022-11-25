@@ -3,7 +3,7 @@
 <!-- <h1 align="center"> </h1> -->
 
 
-## 🚩 Human/Hand/Face/Full-body Motion Capture:
+### 🚩 Human/Hand/Face/Full-body Motion Capture:
 
 👉 **DaNet [TPAMI 2020]**: [![GitHub stars](https://img.shields.io/github/stars/HongwenZhang/DaNet-DensePose2SMPL.svg?style=social&label=Star)](https://github.com/HongwenZhang/DaNet-DensePose2SMPL)
 + **[Learning 3D Human Shape and Pose from Dense Body Parts](https://hongwenzhang.github.io/DensePose2SMPL)**  
