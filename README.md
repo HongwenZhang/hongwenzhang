@@ -16,7 +16,7 @@
 </table>
 <!-- <h1 align="center"> </h1> -->
 
-👉 **PyMAF [ICCV 2021, Oral]** & **PyMAF-X [arXiv 2022]**: [![GitHub stars](https://img.shields.io/github/stars/HongwenZhang/PyMAF.svg?style=social&label=Star)](https://github.com/HongwenZhang/PyMAF)
+👉 **PyMAF [ICCV 2021, Oral]** & **PyMAF-X [TPAMI 2023]**: [![GitHub stars](https://img.shields.io/github/stars/HongwenZhang/PyMAF.svg?style=social&label=Star)](https://github.com/HongwenZhang/PyMAF)
 + **[PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://hongwenzhang.github.io/pymaf)**  
  ✨ better mesh-to-image alignment
 <table style="margin-left:auto; margin-right:auto;">
