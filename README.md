@@ -1,4 +1,4 @@
-### ✨ Research Highlights ✨  [![GitHub User's stars](https://img.shields.io/github/stars/HongwenZhang?label=Total%20Stars&style=social)](https://github.com/HongwenZhang)
+### ✨ Research Highlights ✨  [![GitHub User's stars](https://img.shields.io/github/stars/HongwenZhang?label=GitHub%20Stars&style=social)](https://github.com/HongwenZhang) [![Google Scholar Citations](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhang-hongwen%2Fzhang-hongwen.github.io@gs-data%2Fgs_data_shieldsio.json&labelColor=ffffff&color=cef&style=flat&label=Google%20Scholar%20Citations)](https://scholar.google.com/citations?user=6z0m_ZMAAAAJ&hl=en)
 <h1 align="center"> </h1>
 
 
