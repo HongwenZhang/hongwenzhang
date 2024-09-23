@@ -5,23 +5,23 @@
 ### 🚩 Human/Hand/Face/Full-body Motion Capture:
 
 👉 **DaNet [TPAMI 2020]**: [![GitHub stars](https://img.shields.io/github/stars/HongwenZhang/DaNet-DensePose2SMPL.svg?style=social&label=Star)](https://github.com/HongwenZhang/DaNet-DensePose2SMPL)
-+ **[Learning 3D Human Shape and Pose from Dense Body Parts](https://hongwenzhang.github.io/DensePose2SMPL)**  
++ **[Learning 3D Human Shape and Pose from Dense Body Parts](https://zhanghongwen.cn/DensePose2SMPL)**  
  ✨ DensePose to SMPL; part-based regressor; more robust to occlusion
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><a href="https://hongwenzhang.github.io/DensePose2SMPL"> <img src="https://hongwenzhang.github.io/DensePose2SMPL/img/framework.png" height=100px width=250px> </a></td>
-    <td><a href="https://hongwenzhang.github.io/DensePose2SMPL"> <img src="https://user-images.githubusercontent.com/12066626/192428284-39c0bca3-04a2-4fe4-b272-48665b299dc8.png" height=100px width=300px> </a></td>
+    <td><a href="https://zhanghongwen.cn/DensePose2SMPL"> <img src="https://zhanghongwen.cn/DensePose2SMPL/img/framework.png" height=100px width=250px> </a></td>
+    <td><a href="https://zhanghongwen.cn/DensePose2SMPL"> <img src="https://user-images.githubusercontent.com/12066626/192428284-39c0bca3-04a2-4fe4-b272-48665b299dc8.png" height=100px width=300px> </a></td>
   </tr>
 </table>
 <!-- <h1 align="center"> </h1> -->
 
 👉 **PyMAF [ICCV 2021, Oral]** & **PyMAF-X [TPAMI 2023]**: [![GitHub stars](https://img.shields.io/github/stars/HongwenZhang/PyMAF.svg?style=social&label=Star)](https://github.com/HongwenZhang/PyMAF)
-+ **[PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://hongwenzhang.github.io/pymaf)**  
++ **[PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://zhanghongwen.cn/pymaf)**  
  ✨ better mesh-to-image alignment
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><a href="https://hongwenzhang.github.io/pymaf"> <img src="https://hongwenzhang.github.io/images/pymaf.jpg" height=100px width=220px> </a></td>
-    <td><a href="https://hongwenzhang.github.io/pymaf"> <img src="https://hongwenzhang.github.io/pymaf/files/flashmob.gif" height=100px width=200px> </a></td>
+    <td><a href="https://zhanghongwen.cn/pymaf"> <img src="https://zhanghongwen.cn/images/pymaf.jpg" height=100px width=220px> </a></td>
+    <td><a href="https://zhanghongwen.cn/pymaf"> <img src="https://zhanghongwen.cn/pymaf/files/flashmob.gif" height=100px width=200px> </a></td>
   </tr>
 </table>
 
@@ -29,7 +29,7 @@
  ✨ an eXpressive version of PyMAF, supporting SMPL-X
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://hongwenzhang.github.io/pymaf-x/files/pymafx.png" height=100px width=220px> </a></td>
+    <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://zhanghongwen.cn/pymaf-x/files/pymafx.png" height=100px width=220px> </a></td>
     <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://liuyebin.com/thumbnail/pymaf-x.jpg" height=100px width=150px> </a></td>
     <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://user-images.githubusercontent.com/12066626/213963277-41f26414-272f-4087-87a2-a9f9dcab2ea7.jpg" height=100px width=200px> </a></td>
   </tr>
@@ -63,7 +63,7 @@
 </table>
 
 
-👉 [More projects](https://hongwenzhang.github.io) related to:
+👉 [More projects](https://zhanghongwen.cn) related to:
 
 + clothed human reconstruction
 + animatable avatar
