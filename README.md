@@ -25,13 +25,13 @@
   </tr>
 </table>
 
-+ **[PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images](https://www.liuyebin.com/pymaf-x)**  
++ **[PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images](https://zhanghongwen.cn/pymaf-x)**  
  ✨ an eXpressive version of PyMAF, supporting SMPL-X
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://zhanghongwen.cn/pymaf-x/files/pymafx.png" height=100px width=220px> </a></td>
-    <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://liuyebin.com/thumbnail/pymaf-x.jpg" height=100px width=150px> </a></td>
-    <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://user-images.githubusercontent.com/12066626/213963277-41f26414-272f-4087-87a2-a9f9dcab2ea7.jpg" height=100px width=200px> </a></td>
+    <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://zhanghongwen.cn/pymaf-x/files/mini-demo.gif" height=100px width=150px> </a></td>
+    <!-- <td><a href="https://www.liuyebin.com/pymaf-x"> <img src="https://user-images.githubusercontent.com/12066626/213963277-41f26414-272f-4087-87a2-a9f9dcab2ea7.jpg" height=100px width=200px> </a></td> -->
   </tr>
 </table>
 
